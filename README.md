@@ -1,6 +1,18 @@
-RPSLS
+Description
+=========
 
-Is an implementation of the Rock-Paper-Scissors-Lizard-Spock game as seen on
-the big bang theory. It is completely playable on the browser. 
+A browser game made to play the new and improved Rock-Paper-Scissors-Lizard-Spock.
 
-After it's completion it will be deployed on Heroku.
+Technologies Used
+=========
+
+* JS
+* JQuery
+* Jasmine for testing
+
+How to use
+=========
+
+* git clone git@github.com:fitstek/rpsls.git
+* cd rpsls
+* open index.html
